@@ -11,7 +11,7 @@ project-deps:
 	. $(VENV)/bin/activate && \
 	pip3.4 install -r requirements.txt
 
-setup: virtual-env deps
+project-setup: virtual-env deps
 
 run:
 	. $(VENV)/bin/activate && \
