@@ -1,4 +1,4 @@
-# includes
+# IPython Makefile Includes
 
-These are the Makefile includes for the "Mastering matplotlib" IPython
-notebooks.
+These are the Makefile includes for various IPython notebooks I use and/or
+create.
