@@ -1,4 +1,4 @@
-VENV=../.venv-mmpl
+VENV=.venv-ipython
 PYTHON=python3.4
 IPYTHON=ipython3
 SYSTEM_PYTHON=$(shell which $(PYTHON))
